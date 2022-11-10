@@ -1,0 +1,25 @@
+body {
+	margin: 0;
+	padding: 0px;
+}
+.figure {
+	border: 1px solid black;
+	position: absolute;
+	overflow: hidden;
+}
+.container {
+	margin-left: 10px;
+	margin-top: 5px;
+}
+input {
+	margin: 0px;
+	border: 1px solid grey;
+	border-radius: 0 0 0 0px;
+	outline: none;
+}
+.button {
+	background: linear-gradient(0deg, #d0d0d0, #edeef0);
+}
+.button:active {
+	outline: 1px solid blue;
+}
